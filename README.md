@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sales Dataset**
 
-- 👯 I’m looking to collaborate on **Service Evoulution**
+- 👯 I’m looking to collaborate on **Service Evaluation in the corporate world**
 
 - ⚡ Fun fact **I love reading**
 
