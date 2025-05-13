@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abidemi Badmus</h1>
 <h3 align="center">A detail-oriented Data Analyst from Nigeria</h3>
 
+As a data analyst, I am skilled in data collection, modelling, exploration, cleaning, and visualization. I am well experienced with using tools like Python, SQL, Power BI, Tableau, Excel, and Google Sheets.
+
+Throughout my journey, I've gained experience using data to uncover trends and help organizations make data supported decisions. My goal is to grow more in the data space and tackle more challenges to come.
+
+I am always eager to learn and grow. I look forward to connect.
+
 - 🔭 I’m currently working on **Sales Dataset**
 
 - 👯 I’m looking to collaborate on **Service Evaluation in the corporate world**
