@@ -1,3 +1,4 @@
+This repository was created to showcase my skills, share project, and track my Data Analytics journey.
 <h1 align="center">Hi 👋, I'm Abidemi Badmus</h1>
 <h3 align="center">A detail-oriented Data Analyst from Nigeria</h3>
 
